@@ -7,6 +7,8 @@ The unique aspect of this project is not just the app itself — but **how it wa
 It was fully developed through an autonomous agent workflow using Claude Code CLI routed through a local orchestration proxy.
 
 ---
+## Proxy Terminal Proof
+![proxy-banner.png]
 
 ## 🚀 What This App Does
 
