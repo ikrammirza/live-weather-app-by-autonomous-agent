@@ -8,12 +8,18 @@ It was fully developed through an autonomous agent workflow using Claude Code CL
 
 ---
 ## Proxy Terminal Proof
-![proxy-banner.png]
+
+<img width="1590" height="1010" alt="proxy-banner" src="https://github.com/user-attachments/assets/c4d4d718-e840-4094-9e4b-fc032c096509" />
+- Uses Open-Meteo API (no API key required)<img width="1590" height="1022" alt="Proxy running on localhos 8080" src="https://github.com/user-attachments/assets/9ccea66a-77d7-4ce1-b831-d73ee9ebfe82" />
+<img width="1590" height="1002" alt="Quota exhausted log" src="https://github.com/user-attachments/assets/32f84176-264c-4efb-add4-2d84ae682d89" />
+
+
+
 
 ## 🚀 What This App Does
 
 - Fetches live weather data for London (51.5074°N, -0.1278°W)
-- Uses Open-Meteo API (no API key required)
+
 - Converts WMO weather codes into human-readable conditions
 - Generates a timestamped `report.txt`
 - Runs as a simple Node.js script
